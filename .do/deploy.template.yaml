@@ -4,6 +4,6 @@ spec:
     - name: web
       git:
         branch: main
-        repo_clone_url: https://github.com/digitalocean/sample-dockerfile-static.git
+        repo_clone_url: https://github.com/hxmtl/sample-dockerfile-static.git
       dockerfile_path: Dockerfile.static
       output_dir: /app/public

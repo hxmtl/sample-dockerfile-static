@@ -4,6 +4,6 @@ static_sites:
     github:
       deploy_on_push: true
       branch: main
-      repo: digitalocean/sample-dockerfile-static
+      repo: hxmtl/sample-dockerfile-static
     dockerfile_path: Dockerfile.static
     output_dir: /app/public
